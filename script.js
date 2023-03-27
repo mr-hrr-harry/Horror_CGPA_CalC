@@ -1,4 +1,4 @@
-let val;
+ let val;
 let ar=["none"];
 
 function addBox(){
