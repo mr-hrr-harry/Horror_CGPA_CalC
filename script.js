@@ -118,7 +118,7 @@ function generateGpa(){
 }
 
 
-
+ 
 resArr=["none"];
 
 function calcRes(){
